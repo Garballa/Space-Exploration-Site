@@ -1,0 +1,21 @@
+html {
+  background: url("Pillars-of-Creation.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  color: antiquewhite;
+}
+.apply-btn {
+  font-family: "Orbitron", sans-serif;
+  font-weight: bolder;
+  color: black;
+  background: antiquewhite;
+  border-radius: 10px;
+  border: none;
+  padding: 5px 10px;
+}
